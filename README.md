@@ -15,9 +15,6 @@ Berechnet die zulässige Mietzinsanpassung gemäss VMWG Art. 12–16 basierend a
 - Datum der letzten Anpassung steuert automatisch: Referenzzinssatz, LIK-Monat, Kostensteigerungsmonate
 - LIK-Werte werden automatisch aus BFS-Daten befüllt — per Monatswahl, nicht manuelle Eingabe
 - Berechnung immer auf gemeinsamer Basis (kein Rundungsfehler über Basisgrenzen hinweg)
-- Neue Basis wird separat angezeigt für Übernahme in künftige Anpassungen
-- Live-Berechnung ohne Submit-Button
-- 112 Unit-Tests, inkl. vollständiger Verifikation gegen die offizielle HEV-Überwälzungssätze-Tabelle
 
 ## Tech Stack
 
